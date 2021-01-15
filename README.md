@@ -20,5 +20,6 @@
         xdu_logo.png
         xdu_title.png
 ```
-## minte宏包
+## minted宏包
 本模板使用了minted宏包，因此需要配置Python环境并安装Pygments模块。
+可以参照相应的文档或网上资料[latex中代码高亮显示宏包minted用法](https://blog.csdn.net/xenonhu/article/details/88978672)
