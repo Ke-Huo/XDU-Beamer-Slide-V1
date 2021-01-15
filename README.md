@@ -15,9 +15,10 @@
 │  XDU_BeamerTemplate.tex                       #主文件
 │  
 ├─figures                                       #图片文件
-└─source                                        #模板用到的图片,w误删
+└─source                                        #模板用到的图片,不要删除
         xdu_background.png
         xdu_logo.png
         xdu_title.png
 ```
-
+## minte宏包
+本模板使用了minted宏包，因此需要配置Python环境并安装Pygments模块。
